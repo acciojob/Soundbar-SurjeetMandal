@@ -1,5 +1,5 @@
 //your JS code here. If required.
 function sound() {
-	let music = new Audio('musicfile.mp3'); 
+	let music = document.getElementById("audio");
 	music.play();
 } 
