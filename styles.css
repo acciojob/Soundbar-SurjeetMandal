@@ -1,5 +1,4 @@
 /*  your css code here. If applicable */
-/*  your css code here. If applicable */
 *{
   padding: 0px;
   margin: 0px;
@@ -14,17 +13,12 @@
 	justify-content: center;
 	flex-wrap: wrap;
 }
-.btn{
+input{
 	padding: 10px 20px;
 	height: 10%;
 	color: white;
 	background: #490647;
 	border: none;
-}
-.stop{
-	padding: 10px 20px;
-	height: 10%;
-	color: white;
-	background: #490647;
-	border: none;
+	border-radius: 2px;
+	cursor: pointer;
 }
